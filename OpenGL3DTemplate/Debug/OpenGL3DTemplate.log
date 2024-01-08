@@ -1,0 +1,4 @@
+﻿  OpenGL3DTemplate.cpp
+C:\Users\sarad\Desktop\university\7th Semester\DMET502 - Computer Graphics\Assignments\OpenGL 3D Template\OpenGL3DTemplate\OpenGL3DTemplate.cpp(995,8): warning C4101: 'myY': unreferenced local variable
+OpenGL3DTemplate.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGL3DTemplate.vcxproj -> C:\Users\sarad\Desktop\university\7th Semester\DMET502 - Computer Graphics\Assignments\OpenGL 3D Template\OpenGL3DTemplate\Debug\OpenGL3DTemplate.exe
